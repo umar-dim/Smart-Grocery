@@ -1,0 +1,11 @@
+ID,Name,Email,PhoneNumber,Username,Location,PaymentINFO,FoodPreference
+1,John Doe,johndoe718@example.com,+1-586-142-3749,johndoe718,Chicago,MASTERCARD,none
+2,Jane Smith,janesmith347@example.com,+1-698-654-5619,janesmith347,Chicago,Paypal,vegetarian
+3,Alice Johnson,alicejohnson563@example.com,+1-590-365-9117,alicejohnson563,Chicago,VISA,none
+4,Bob Brown,bobbrown906@example.com,+1-150-569-6382,bobbrown906,Chicago,MASTERCARD,vegan
+5,Charlie Davis,charliedavis153@example.com,+1-399-332-7370,charliedavis153,Chicago,MASTERCARD,vegan
+6,Diana Evans,dianaevans405@example.com,+1-198-944-5493,dianaevans405,Chicago,MASTERCARD,none
+7,Edward Foster,edwardfoster374@example.com,+1-755-642-4410,edwardfoster374,Chicago,Paypal,vegetarian
+8,Grace Hall,gracehall548@example.com,+1-373-509-5450,gracehall548,Chicago,MASTERCARD,none
+9,Ian Green,iangreen554@example.com,+1-496-745-6545,iangreen554,Chicago,Paypal,vegetarian
+10,Jill Hill,jillhill860@example.com,+1-590-538-5340,jillhill860,Chicago,VISA,dairy free

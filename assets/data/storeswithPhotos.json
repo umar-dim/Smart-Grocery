@@ -1,0 +1,2114 @@
+[
+    {
+        "Address": "87 W 87th St",
+        "Zip": "60620",
+        "Location": "POINT (-87.626243 41.736172)",
+        "store_id": 1,
+        "store_name": "Jewel - Osco",
+        "image_path": "jewelOscoLogo.png"
+    },
+    {
+        "Address": "3555 W OGDEN AVE",
+        "Zip": "60623",
+        "Location": "POINT (-87.7 1437 41.854608)",
+        "store_id": 2,
+        "store_name": "Farm on Ogden",
+        "image_path": "groceryStore.png"
+    },
+    {
+        "Address": "5343 N Broadway St",
+        "Zip": "60640-2311",
+        "Location": "POINT (-87.659887 41.978998)",
+        "store_id": 3,
+        "store_name": "Jewel - Osco",
+        "image_path": "jewelOscoLogo.png"
+    },
+    {
+        "Address": "4404 W FULLERTON AVE",
+        "Zip": "60639",
+        "Location": "POINT (-87.737127 41.924425)",
+        "store_id": 4,
+        "store_name": "International Foods NW",
+        "image_path": "groceryStore.png"
+    },
+    {
+        "Address": "2520 N Narragansett Ave",
+        "Zip": "60639-1041",
+        "Location": "POINT (-87.785559 41.926236)",
+        "store_id": 5,
+        "store_name": "Jewel - Osco",
+        "image_path": "jewelOscoLogo.png"
+    },
+    {
+        "Address": "40 S Halsted St",
+        "Zip": "60661-3506",
+        "Location": "POINT (-87.647384 41.880557)",
+        "store_id": 6,
+        "store_name": "Mariano's Fresh Market",
+        "image_path": "marianosLogo.png"
+    },
+    {
+        "Address": "3145 South Ashland Ave",
+        "Zip": "60608",
+        "Location": "POINT (-87.66563800000002 41.836512)",
+        "store_id": 7,
+        "store_name": "Mariano's Fresh Market",
+        "image_path": "marianosLogo.png"
+    },
+    {
+        "Address": "7800 S South Chicago Ave",
+        "Zip": "60619-2724",
+        "Location": "POINT (-87.587472 41.752778)",
+        "store_id": 8,
+        "store_name": "Aldi",
+        "image_path": "AldiLogo.png"
+    },
+    {
+        "Address": "7030 S Ashland Ave",
+        "Zip": "60636-3948",
+        "Location": "POINT (-87.663901 41.765174)",
+        "store_id": 9,
+        "store_name": "Food 4 Less",
+        "image_path": "food4lessLogo.png"
+    },
+    {
+        "Address": "1 N Halsted St",
+        "Zip": "60661-2176",
+        "Location": "POINT (-87.647331 41.882501)",
+        "store_id": 10,
+        "store_name": "Whole Foods Market",
+        "image_path": "wholeFoodsLogo.png"
+    },
+    {
+        "Address": "2840 W Devon Ave",
+        "Zip": "60645",
+        "Location": "POINT (-87.701088 41.99753)",
+        "store_id": 11,
+        "store_name": "Ted's Fresh Market",
+        "image_path": "groceryStore.png"
+    },
+    {
+        "Address": "4645 W. Diversy Ave",
+        "Zip": "60639",
+        "Location": "POINT (-87.743743 41.931592)",
+        "store_id": 12,
+        "store_name": "Aldi",
+        "image_path": "AldiLogo.png"
+    },
+    {
+        "Address": "3415 W Diversey Ave",
+        "Zip": "60647",
+        "Location": "POINT (-87.712866 41.931959)",
+        "store_id": 13,
+        "store_name": "Foodsmart",
+        "image_path": "groceryStore.png"
+    },
+    {
+        "Address": "6312 N Nagle Ave",
+        "Zip": "60646",
+        "Location": "POINT (-87.787504 41.996164)",
+        "store_id": 14,
+        "store_name": "Shop & Save Market",
+        "image_path": "groceryStore.png"
+    },
+    {
+        "Address": "10736 S EWING AVE",
+        "Zip": "60617",
+        "Location": "POINT (-87.535294 41.699723)",
+        "store_id": 15,
+        "store_name": "La Cienega Super Food",
+        "image_path": "groceryStore.png"
+    },
+    {
+        "Address": "3500 W Lawrence Ave",
+        "Zip": "60625-5612",
+        "Location": "POINT (-87.715926 41.968373)",
+        "store_id": 16,
+        "store_name": "Chicago Produce",
+        "image_path": "groceryStore.png"
+    },
+    {
+        "Address": "7622 N Paulina St",
+        "Zip": "60626-1018",
+        "Location": "POINT (-87.673098 42.020029)",
+        "store_id": 17,
+        "store_name": "Paulina Super Market",
+        "image_path": "groceryStore.png"
+    },
+    {
+        "Address": "5555 W North Ave",
+        "Zip": "60639",
+        "Location": "POINT (-87.765278 41.90935000000001)",
+        "store_id": 18,
+        "store_name": "Save A Lot",
+        "image_path": "groceryStore.png"
+    },
+    {
+        "Address": "112 W 87Th St Ste G1",
+        "Zip": "60620-1318",
+        "Location": "POINT (-87.628203 41.736274)",
+        "store_id": 19,
+        "store_name": "Food 4 Less",
+        "image_path": "food4lessLogo.png"
+    },
+    {
+        "Address": "2134 N Western Ave",
+        "Zip": "60647",
+        "Location": "POINT (-87.68756200000001 41.920967000000005)",
+        "store_id": 20,
+        "store_name": "Fresh Marketplace",
+        "image_path": "groceryStore.png"
+    },
+    {
+        "Address": "4030 W Wrightwood Ave",
+        "Zip": "60639-2125",
+        "Location": "POINT (-87.728091 41.928127)",
+        "store_id": 21,
+        "store_name": "Aldi",
+        "image_path": "AldiLogo.png"
+    },
+    {
+        "Address": "4343 S Pulaski Rd.",
+        "Zip": "60632",
+        "Location": "POINT (-87.723709 41.813795)",
+        "store_id": 22,
+        "store_name": "Pete's Fresh Market",
+        "image_path": "petesLogo.jpeg"
+    },
+    {
+        "Address": "4720 S Cottage Grove Ave",
+        "Zip": "60615-1612",
+        "Location": "POINT (-87.606539 41.80867)",
+        "store_id": 23,
+        "store_name": "Walmart Neighborhood Market",
+        "image_path": "walmartLogo.jpeg"
+    },
+    {
+        "Address": "5020 W Fullerton Ave",
+        "Zip": "60639",
+        "Location": "POINT (-87.75198 41.924229)",
+        "store_id": 24,
+        "store_name": "Fresh Marketplace",
+        "image_path": "groceryStore.png"
+    },
+    {
+        "Address": "1753 N Milwaukee Ave",
+        "Zip": "60647-5423",
+        "Location": "POINT (-87.681868 41.913241)",
+        "store_id": 25,
+        "store_name": "Aldi",
+        "image_path": "AldiLogo.png"
+    },
+    {
+        "Address": "1430 S Ashland Ave",
+        "Zip": "60608-2040",
+        "Location": "POINT (-87.666318 41.862387)",
+        "store_id": 26,
+        "store_name": "Costco",
+        "image_path": "costcoLogo.jpeg"
+    },
+    {
+        "Address": "1664 W Division St",
+        "Zip": "60622-3922",
+        "Location": "POINT (-87.670037 41.90332)",
+        "store_id": 27,
+        "store_name": "Target",
+        "image_path": "targetLogo.png"
+    },
+    {
+        "Address": "1430 W MORSE AVE",
+        "Zip": "60626",
+        "Location": "POINT (-87.667272 42.007928)",
+        "store_id": 28,
+        "store_name": "Morse Fresh Market",
+        "image_path": "groceryStore.png"
+    },
+    {
+        "Address": "2101 E 71ST ST",
+        "Zip": "60649",
+        "Location": "POINT (-87.574498 41.766083)",
+        "store_id": 29,
+        "store_name": "Local Market",
+        "image_path": "groceryStore.png"
+    },
+    {
+        "Address": "1200 N Larrabee St",
+        "Zip": "60610-1746",
+        "Location": "POINT (-87.643205 41.903741)",
+        "store_id": 30,
+        "store_name": "Target",
+        "image_path": "targetLogo.png"
+    },
+    {
+        "Address": "5001 N Pulaski Rd",
+        "Zip": "60630-2706",
+        "Location": "POINT (-87.728134 41.972832)",
+        "store_id": 31,
+        "store_name": "Aldi",
+        "image_path": "AldiLogo.png"
+    },
+    {
+        "Address": "3320 W Belmont Ave",
+        "Zip": "60618-5513",
+        "Location": "POINT (-87.710816 41.939357)",
+        "store_id": 32,
+        "store_name": "Aldi",
+        "image_path": "AldiLogo.png"
+    },
+    {
+        "Address": "5129 N BROADWAY",
+        "Zip": "60640",
+        "Location": "POINT (-87.65979300000001 41.975531)",
+        "store_id": 33,
+        "store_name": "Old World Market",
+        "image_path": "groceryStore.png"
+    },
+    {
+        "Address": "1340 S Canal St",
+        "Zip": "60607",
+        "Location": "POINT (-87.639156 41.864386)",
+        "store_id": 34,
+        "store_name": "Jewel - Osco",
+        "image_path": "jewelOscoLogo.png"
+    },
+    {
+        "Address": "1835 S CANAL ST",
+        "Zip": "60616",
+        "Location": "POINT (-87.638889 41.856363)",
+        "store_id": 35,
+        "store_name": "Park to Shop Supermarket Canal",
+        "image_path": "groceryStore.png"
+    },
+    {
+        "Address": "2940 N Ashland Ave",
+        "Zip": "60657-4004",
+        "Location": "POINT (-87.66857 41.93556)",
+        "store_id": 36,
+        "store_name": "Jewel - Osco",
+        "image_path": "jewelOscoLogo.png"
+    },
+    {
+        "Address": "4335 W 26TH ST",
+        "Zip": "60623",
+        "Location": "POINT (-87.732431 41.844143)",
+        "store_id": 37,
+        "store_name": "La Merced",
+        "image_path": "groceryStore.png"
+    },
+    {
+        "Address": "6621 S Cottage Grove Ave",
+        "Zip": "60637-4126",
+        "Location": "POINT (-87.6058 41.774139000000005)",
+        "store_id": 38,
+        "store_name": "Aldi",
+        "image_path": "AldiLogo.png"
+    },
+    {
+        "Address": "2200 S Western Ave.",
+        "Zip": "60608",
+        "Location": "POINT (-87.685717 41.851983)",
+        "store_id": 39,
+        "store_name": "Fairplay Neighborhood Market",
+        "image_path": "groceryStore.png"
+    },
+    {
+        "Address": "2626 W Devon Ave",
+        "Zip": "60659",
+        "Location": "POINT (-87.695711 41.997625)",
+        "store_id": 40,
+        "store_name": "Fresh Farms",
+        "image_path": "groceryStore.png"
+    },
+    {
+        "Address": "9400 S Ashland Ave",
+        "Zip": "60620-5121",
+        "Location": "POINT (-87.662811 41.723015)",
+        "store_id": 41,
+        "store_name": "Jewel - Osco",
+        "image_path": "jewelOscoLogo.png"
+    },
+    {
+        "Address": "1508 W 47th St",
+        "Zip": "60609-3236",
+        "Location": "POINT (-87.662937 41.808677)",
+        "store_id": 42,
+        "store_name": "Aldi",
+        "image_path": "AldiLogo.png"
+    },
+    {
+        "Address": "6221 N Broadway St",
+        "Zip": "60660-1902",
+        "Location": "POINT (-87.660357 41.995236)",
+        "store_id": 43,
+        "store_name": "Aldi",
+        "image_path": "AldiLogo.png"
+    },
+    {
+        "Address": "458 W Dickens Ave",
+        "Zip": "60614",
+        "Location": "POINT (-87.640843 41.920154)",
+        "store_id": 44,
+        "store_name": "Carnival Grocery & Liquor",
+        "image_path": "groceryStore.png"
+    },
+    {
+        "Address": "4821 W North Ave",
+        "Zip": "60639-4529",
+        "Location": "POINT (-87.747691 41.909574)",
+        "store_id": 45,
+        "store_name": "Food 4 Less",
+        "image_path": "food4lessLogo.png"
+    },
+    {
+        "Address": "6020 N Cicero Ave",
+        "Zip": "60646-4302",
+        "Location": "POINT (-87.748332 41.990481)",
+        "store_id": 46,
+        "store_name": "Whole Foods Market",
+        "image_path": "wholeFoodsLogo.png"
+    },
+    {
+        "Address": "8331 S Stewart Ave",
+        "Zip": "60620-1728",
+        "Location": "POINT (-87.634052 41.740814)",
+        "store_id": 47,
+        "store_name": "Walmart",
+        "image_path": "walmartLogo.jpeg"
+    },
+    {
+        "Address": "3300 N Ashland Ave",
+        "Zip": "60657-2109",
+        "Location": "POINT (-87.66875400000002 41.941143)",
+        "store_id": 48,
+        "store_name": "Target",
+        "image_path": "targetLogo.png"
+    },
+    {
+        "Address": "7117 N CLARK ST",
+        "Zip": "60626",
+        "Location": "POINT (-87.674552 42.012)",
+        "store_id": 49,
+        "store_name": "Supermercado Chapala",
+        "image_path": "groceryStore.png"
+    },
+    {
+        "Address": "351 E 103RD ST",
+        "Zip": "60628",
+        "Location": "POINT (-87.614178 41.707306)",
+        "store_id": 50,
+        "store_name": "Grocery Basket",
+        "image_path": "groceryStore.png"
+    },
+    {
+        "Address": "2744 W 55th St",
+        "Zip": "60632",
+        "Location": "POINT (-87.693138 41.793733)",
+        "store_id": 51,
+        "store_name": "Carniceria La Hacienda",
+        "image_path": "groceryStore.png"
+    },
+    {
+        "Address": "4204 W North Ave",
+        "Zip": "60639",
+        "Location": "POINT (-87.73185 41.909879)",
+        "store_id": 52,
+        "store_name": "Carniceria Jimenez",
+        "image_path": "groceryStore.png"
+    },
+    {
+        "Address": "2333 W Madison St.",
+        "Zip": "60612",
+        "Location": "POINT (-87.68456 41.881155)",
+        "store_id": 53,
+        "store_name": "Pete's Fresh Market",
+        "image_path": "petesLogo.jpeg"
+    },
+    {
+        "Address": "6422 N Sheridan Rd Unit A",
+        "Zip": "60626-5336",
+        "Location": "POINT (-87.660677 41.998785)",
+        "store_id": 54,
+        "store_name": "Target",
+        "image_path": "targetLogo.png"
+    },
+    {
+        "Address": "370 N Desplaines St",
+        "Zip": "60661-1106",
+        "Location": "POINT (-87.644337 41.888757)",
+        "store_id": 55,
+        "store_name": "Jewel - Osco",
+        "image_path": "jewelOscoLogo.png"
+    },
+    {
+        "Address": "2844 N Broadway St",
+        "Zip": "60657-6017",
+        "Location": "POINT (-87.644278 41.934267000000006)",
+        "store_id": 56,
+        "store_name": "Walmart",
+        "image_path": "walmartLogo.jpeg"
+    },
+    {
+        "Address": "3745 N LINCOLN AVE",
+        "Zip": "60613",
+        "Location": "POINT (-87.675803 41.949969)",
+        "store_id": 57,
+        "store_name": "Trader Joe's",
+        "image_path": "TraderJoesLogo.jpeg"
+    },
+    {
+        "Address": "3435 S Archer",
+        "Zip": "60608",
+        "Location": "POINT (-87.676229 41.831333)",
+        "store_id": 58,
+        "store_name": "Cermak Produce",
+        "image_path": "groceryStore.png"
+    },
+    {
+        "Address": "7345 S State St",
+        "Zip": "60619-1622",
+        "Location": "POINT (-87.624864 41.760589)",
+        "store_id": 59,
+        "store_name": "Aldi",
+        "image_path": "AldiLogo.png"
+    },
+    {
+        "Address": "1 S State St",
+        "Zip": "60603-2802",
+        "Location": "POINT (-87.62773100000001 41.881754)",
+        "store_id": 60,
+        "store_name": "Target",
+        "image_path": "targetLogo.png"
+    },
+    {
+        "Address": "2600 N Central Ave",
+        "Zip": "60639",
+        "Location": "POINT (-87.766131 41.928447)",
+        "store_id": 61,
+        "store_name": "Fresh Marketplace",
+        "image_path": "groceryStore.png"
+    },
+    {
+        "Address": "5817 W Madison St",
+        "Zip": "60644",
+        "Location": "POINT (-87.770457 41.880104)",
+        "store_id": 62,
+        "store_name": "Mario's Butcher Shop",
+        "image_path": "groceryStore.png"
+    },
+    {
+        "Address": "6978 N CLARK ST",
+        "Zip": "60626",
+        "Location": "POINT (-87.673898 42.008677)",
+        "store_id": 63,
+        "store_name": "Super Mercado Roman",
+        "image_path": "groceryStore.png"
+    },
+    {
+        "Address": "10800 S Western Avenue",
+        "Zip": "60643",
+        "Location": "POINT (-87.6814 41.69714900000001)",
+        "store_id": 64,
+        "store_name": "County Fair Foods",
+        "image_path": "groceryStore.png"
+    },
+    {
+        "Address": "7627 S Ashland Ave",
+        "Zip": "60620-4248",
+        "Location": "POINT (-87.663497 41.75482)",
+        "store_id": 65,
+        "store_name": "Aldi",
+        "image_path": "AldiLogo.png"
+    },
+    {
+        "Address": "2333 E 95th St",
+        "Zip": "60617-4806",
+        "Location": "POINT (-87.566623 41.722569)",
+        "store_id": 66,
+        "store_name": "Aldi",
+        "image_path": "AldiLogo.png"
+    },
+    {
+        "Address": "344 E 63rd St",
+        "Zip": "60637",
+        "Location": "POINT (-87.616756 41.780225)",
+        "store_id": 67,
+        "store_name": "Save A Lot",
+        "image_path": "groceryStore.png"
+    },
+    {
+        "Address": "2746 N Clybourn Ave",
+        "Zip": "60614-1006",
+        "Location": "POINT (-87.676224 41.930664)",
+        "store_id": 68,
+        "store_name": "Costco",
+        "image_path": "costcoLogo.jpeg"
+    },
+    {
+        "Address": "5516 N Clark St",
+        "Zip": "60640-1214",
+        "Location": "POINT (-87.668645 41.982857)",
+        "store_id": 69,
+        "store_name": "Jewel - Osco",
+        "image_path": "jewelOscoLogo.png"
+    },
+    {
+        "Address": "6420 W FULLERTON AVE",
+        "Zip": "60707",
+        "Location": "POINT (-87.790105 41.923654)",
+        "store_id": 70,
+        "store_name": "Farmer's Best Market",
+        "image_path": "groceryStore.png"
+    },
+    {
+        "Address": "320 E Ohio",
+        "Zip": "60601",
+        "Location": "POINT (-87.619678 41.892621)",
+        "store_id": 71,
+        "store_name": "Bockwinkel's at McClurg",
+        "image_path": "groceryStore.png"
+    },
+    {
+        "Address": "935 E 79TH ST",
+        "Zip": "60619",
+        "Location": "POINT (-87.601174 41.751322)",
+        "store_id": 72,
+        "store_name": "Food Town",
+        "image_path": "groceryStore.png"
+    },
+    {
+        "Address": "1500 N Clybourn Ave. #C104",
+        "Zip": "60610",
+        "Location": "POINT (-87.646261 41.908623)",
+        "store_id": 73,
+        "store_name": "Mariano's Fresh Market",
+        "image_path": "marianosLogo.png"
+    },
+    {
+        "Address": "1701 W 47th Street",
+        "Zip": "60609",
+        "Location": "POINT (-87.667504 41.808611)",
+        "store_id": 74,
+        "store_name": "Supermercado El Guero",
+        "image_path": "groceryStore.png"
+    },
+    {
+        "Address": "4439 W 63rd St",
+        "Zip": "60629",
+        "Location": "POINT (-87.734011 41.778509)",
+        "store_id": 75,
+        "store_name": "Save A Lot",
+        "image_path": "groceryStore.png"
+    },
+    {
+        "Address": "2526 W Cermak Rd.",
+        "Zip": "60608",
+        "Location": "POINT (-87.689379 41.852011)",
+        "store_id": 76,
+        "store_name": "Pete's Fresh Market",
+        "image_path": "petesLogo.jpeg"
+    },
+    {
+        "Address": "5220 S Pulaski",
+        "Zip": "60632",
+        "Location": "POINT (-87.723369 41.797972)",
+        "store_id": 77,
+        "store_name": "Cermak Produce",
+        "image_path": "groceryStore.png"
+    },
+    {
+        "Address": "1341 N Paulina St",
+        "Zip": "60622-2145",
+        "Location": "POINT (-87.670004 41.906389)",
+        "store_id": 78,
+        "store_name": "Jewel - Osco",
+        "image_path": "jewelOscoLogo.png"
+    },
+    {
+        "Address": "3857 S Dr. Martin Luther King Jr. Dr.",
+        "Zip": "60653",
+        "Location": "",
+        "store_id": 79,
+        "store_name": "Mariano's Fresh Market",
+        "image_path": "marianosLogo.png"
+    },
+    {
+        "Address": "4608 W. Belmont Avenue",
+        "Zip": "60641",
+        "Location": "POINT (-87.742133 41.938918)",
+        "store_id": 80,
+        "store_name": "Tony's Finer Foods",
+        "image_path": "groceryStore.png"
+    },
+    {
+        "Address": "155 N Harbor Drive",
+        "Zip": "60601",
+        "Location": "POINT (-87.615743 41.88494)",
+        "store_id": 81,
+        "store_name": "Bockwinkel's Fresh Express",
+        "image_path": "groceryStore.png"
+    },
+    {
+        "Address": "2939 W Addison St",
+        "Zip": "60618-4635",
+        "Location": "POINT (-87.701338 41.94667)",
+        "store_id": 82,
+        "store_name": "Target",
+        "image_path": "targetLogo.png"
+    },
+    {
+        "Address": "6623 Damen Ave",
+        "Zip": "60645",
+        "Location": "POINT (-87.680301 42.002765)",
+        "store_id": 83,
+        "store_name": "Cermak Produce",
+        "image_path": "groceryStore.png"
+    },
+    {
+        "Address": "832 W 63rd St",
+        "Zip": "60621-1902",
+        "Location": "POINT (-87.646252 41.779755)",
+        "store_id": 84,
+        "store_name": "Whole Foods Market",
+        "image_path": "wholeFoodsLogo.png"
+    },
+    {
+        "Address": "5353 N Elston",
+        "Zip": "60630",
+        "Location": "POINT (-87.757473 41.978765)",
+        "store_id": 85,
+        "store_name": "Mariano's Fresh Market",
+        "image_path": "marianosLogo.png"
+    },
+    {
+        "Address": "2431 W Montrose Ave",
+        "Zip": "60618-1605",
+        "Location": "POINT (-87.689822 41.961329)",
+        "store_id": 86,
+        "store_name": "Aldi",
+        "image_path": "AldiLogo.png"
+    },
+    {
+        "Address": "3030 S Kedzie Ave",
+        "Zip": "60623-4713",
+        "Location": "POINT (-87.704836 41.838177)",
+        "store_id": 87,
+        "store_name": "Aldi",
+        "image_path": "AldiLogo.png"
+    },
+    {
+        "Address": "6431 W FULLERTON AVE",
+        "Zip": "60707",
+        "Location": "POINT (-87.786653 41.923634)",
+        "store_id": 88,
+        "store_name": "Gordon Food Service Store",
+        "image_path": "groceryStore.png"
+    },
+    {
+        "Address": "4401 W ARMITAGE AVE",
+        "Zip": "60639",
+        "Location": "POINT (-87.737017 41.91706)",
+        "store_id": 89,
+        "store_name": "Cermak Produce",
+        "image_path": "groceryStore.png"
+    },
+    {
+        "Address": "1101 W Jackson Blvd",
+        "Zip": "60607-2905",
+        "Location": "POINT (-87.654886 41.877858)",
+        "store_id": 90,
+        "store_name": "Target",
+        "image_path": "targetLogo.png"
+    },
+    {
+        "Address": "5118 S Lake Park Ave",
+        "Zip": "60615-4115",
+        "Location": "POINT (-87.587718 41.80173500000001)",
+        "store_id": 91,
+        "store_name": "Whole Foods Market",
+        "image_path": "wholeFoodsLogo.png"
+    },
+    {
+        "Address": "2101 W Cermak Rd",
+        "Zip": "60608",
+        "Location": "POINT (-87.678526 41.852157)",
+        "store_id": 92,
+        "store_name": "Supermercado El Guero",
+        "image_path": "groceryStore.png"
+    },
+    {
+        "Address": "4645 W Diversey Ave",
+        "Zip": "60639-1828",
+        "Location": "POINT (-87.743743 41.931592)",
+        "store_id": 93,
+        "store_name": "Aldi",
+        "image_path": "AldiLogo.png"
+    },
+    {
+        "Address": "4023 S Archer Ave.",
+        "Zip": "60632",
+        "Location": "POINT (-87.693738 41.820567)",
+        "store_id": 94,
+        "store_name": "Supermercado El Guero",
+        "image_path": "groceryStore.png"
+    },
+    {
+        "Address": "3320 South Cicero Avenue",
+        "Zip": "",
+        "Location": "POINT (-87.74364 41.830299)",
+        "store_id": 95,
+        "store_name": "Walmart",
+        "image_path": "walmartLogo.jpeg"
+    },
+    {
+        "Address": "8636 S ASHLAND AVE",
+        "Zip": "60620",
+        "Location": "POINT (-87.663181 41.73671)",
+        "store_id": 96,
+        "store_name": "Beverly Food Mart",
+        "image_path": "groceryStore.png"
+    },
+    {
+        "Address": "3555 W 26th Street",
+        "Zip": "60623",
+        "Location": "POINT (-87.714614 41.844396)",
+        "store_id": 97,
+        "store_name": "Food Market La Chicquita",
+        "image_path": "groceryStore.png"
+    },
+    {
+        "Address": "6520 W Fullerton Ave",
+        "Zip": "60707-3431",
+        "Location": "POINT (-87.788159 41.923717)",
+        "store_id": 98,
+        "store_name": "Aldi",
+        "image_path": "AldiLogo.png"
+    },
+    {
+        "Address": "2623 S PULASKI RD",
+        "Zip": "60623",
+        "Location": "POINT (-87.724514 41.843419)",
+        "store_id": 99,
+        "store_name": "Supermercado La Chiqutia",
+        "image_path": "groceryStore.png"
+    },
+    {
+        "Address": "5233 N. Lincoln Ave",
+        "Zip": "60625",
+        "Location": "POINT (-87.69240600000002 41.976631)",
+        "store_id": 100,
+        "store_name": "Tony's Finer Foods",
+        "image_path": "groceryStore.png"
+    },
+    {
+        "Address": "6025 S Western Ave",
+        "Zip": "60636-2019",
+        "Location": "POINT (-87.68370700000001 41.78380000000001)",
+        "store_id": 101,
+        "store_name": "Aldi",
+        "image_path": "AldiLogo.png"
+    },
+    {
+        "Address": "3030 N Broadway Suite 100",
+        "Zip": "60657",
+        "Location": "POINT (-87.644291 41.937393)",
+        "store_id": 102,
+        "store_name": "Mariano's Fresh Market",
+        "image_path": "marianosLogo.png"
+    },
+    {
+        "Address": "4700 S Kedzie Ave.",
+        "Zip": "60632",
+        "Location": "POINT (-87.703961 41.807662)",
+        "store_id": 103,
+        "store_name": "Pete's Fresh Market",
+        "image_path": "petesLogo.jpeg"
+    },
+    {
+        "Address": "11730 S Marshfield Ave",
+        "Zip": "60643-4904",
+        "Location": "POINT (-87.66251200000002 41.6814)",
+        "store_id": 104,
+        "store_name": "Jewel - Osco",
+        "image_path": "jewelOscoLogo.png"
+    },
+    {
+        "Address": "3630 N Southport Ave",
+        "Zip": "60613-3710",
+        "Location": "POINT (-87.664031 41.94821400000001)",
+        "store_id": 105,
+        "store_name": "Jewel - Osco",
+        "image_path": "jewelOscoLogo.png"
+    },
+    {
+        "Address": "175 E Delaware",
+        "Zip": "60611",
+        "Location": "POINT (-87.622865 41.899246)",
+        "store_id": 106,
+        "store_name": "Potash Markets",
+        "image_path": "groceryStore.png"
+    },
+    {
+        "Address": "3835 W Madison St",
+        "Zip": "60624-2335",
+        "Location": "POINT (-87.722009 41.88078)",
+        "store_id": 107,
+        "store_name": "Aldi",
+        "image_path": "AldiLogo.png"
+    },
+    {
+        "Address": "2551 W Cermak Rd",
+        "Zip": "60608-3719",
+        "Location": "POINT (-87.689211 41.852013)",
+        "store_id": 108,
+        "store_name": "Walmart",
+        "image_path": "walmartLogo.jpeg"
+    },
+    {
+        "Address": "3629 W 63rd St",
+        "Zip": "60629",
+        "Location": "POINT (-87.714114 41.7788)",
+        "store_id": 109,
+        "store_name": "Carniceria La Hacienda",
+        "image_path": "groceryStore.png"
+    },
+    {
+        "Address": "711 W JACKSON BLVD",
+        "Zip": "60661",
+        "Location": "POINT (-87.644687 41.87801)",
+        "store_id": 110,
+        "store_name": "H Mart",
+        "image_path": "groceryStore.png"
+    },
+    {
+        "Address": "3240 W Roosevelt Rd",
+        "Zip": "60624",
+        "Location": "POINT (-87.707076 41.866411)",
+        "store_id": 111,
+        "store_name": "Leamington Foods",
+        "image_path": "groceryStore.png"
+    },
+    {
+        "Address": "7530 S Stony Island Ave",
+        "Zip": "60649-3999",
+        "Location": "POINT (-87.586146 41.758397)",
+        "store_id": 112,
+        "store_name": "Jewel - Osco",
+        "image_path": "jewelOscoLogo.png"
+    },
+    {
+        "Address": "102 W Division St",
+        "Zip": "60610",
+        "Location": "POINT (-87.631522 41.90392)",
+        "store_id": 113,
+        "store_name": "Jewel - Osco",
+        "image_path": "jewelOscoLogo.png"
+    },
+    {
+        "Address": "5724 S Kedzie Ave.",
+        "Zip": "60629",
+        "Location": "POINT (-87.703411 41.788825)",
+        "store_id": 114,
+        "store_name": "Pete's Fresh Market",
+        "image_path": "petesLogo.jpeg"
+    },
+    {
+        "Address": "4620 S Damen Ave",
+        "Zip": "60609-4043",
+        "Location": "POINT (-87.674989 41.809458)",
+        "store_id": 115,
+        "store_name": "Food 4 Less",
+        "image_path": "food4lessLogo.png"
+    },
+    {
+        "Address": "1543 East 87th Street",
+        "Zip": "60619",
+        "Location": "POINT (-87.58648500000001 41.736904)",
+        "store_id": 116,
+        "store_name": "Pete's Produce",
+        "image_path": "groceryStore.png"
+    },
+    {
+        "Address": "1550 N Kingsbury St",
+        "Zip": "60642-2532",
+        "Location": "POINT (-87.651946 41.908333)",
+        "store_id": 117,
+        "store_name": "Whole Foods Market",
+        "image_path": "wholeFoodsLogo.png"
+    },
+    {
+        "Address": "4234 N Kedzie Ave.",
+        "Zip": "60618",
+        "Location": "POINT (-87.708144 41.958242)",
+        "store_id": 118,
+        "store_name": "Cermak Produce",
+        "image_path": "groceryStore.png"
+    },
+    {
+        "Address": "1810 S Blue Island Ave",
+        "Zip": "60608",
+        "Location": "POINT (-87.662098 41.856785)",
+        "store_id": 119,
+        "store_name": "La Casa Del Pueblo",
+        "image_path": "groceryStore.png"
+    },
+    {
+        "Address": "4466 N Broadway St",
+        "Zip": "60640-5660",
+        "Location": "POINT (-87.656115 41.963321)",
+        "store_id": 120,
+        "store_name": "Target",
+        "image_path": "targetLogo.png"
+    },
+    {
+        "Address": "2425 S WALLACE ST",
+        "Zip": "60616",
+        "Location": "POINT (-87.641933 41.848631)",
+        "store_id": 121,
+        "store_name": "Park to Shop Supermarket",
+        "image_path": "groceryStore.png"
+    },
+    {
+        "Address": "4833 W DIVERSEY AVE",
+        "Zip": "60639",
+        "Location": "POINT (-87.748197 41.93153)",
+        "store_id": 122,
+        "store_name": "Morelia Supermarket",
+        "image_path": "groceryStore.png"
+    },
+    {
+        "Address": "1226 E 53RD ST",
+        "Zip": "60615",
+        "Location": "POINT (-87.595593 41.799496)",
+        "store_id": 123,
+        "store_name": "Hyde Park Produce",
+        "image_path": "groceryStore.png"
+    },
+    {
+        "Address": "424 W Division St",
+        "Zip": "60610-3190",
+        "Location": "POINT (-87.639626 41.903827)",
+        "store_id": 124,
+        "store_name": "Jewel - Osco",
+        "image_path": "jewelOscoLogo.png"
+    },
+    {
+        "Address": "4733 N KEDZIE AVE",
+        "Zip": "60625",
+        "Location": "POINT (-87.708464 41.967651)",
+        "store_id": 125,
+        "store_name": "Andy's Fruit Ranch",
+        "image_path": "groceryStore.png"
+    },
+    {
+        "Address": "5201 N Sheridan Rd",
+        "Zip": "60640",
+        "Location": "POINT (-87.655022 41.976906)",
+        "store_id": 126,
+        "store_name": "Mariano's Fresh Market",
+        "image_path": "marianosLogo.png"
+    },
+    {
+        "Address": "1346 E 53rd St",
+        "Zip": "60615-4046",
+        "Location": "POINT (-87.593095 41.799527)",
+        "store_id": 127,
+        "store_name": "Target",
+        "image_path": "targetLogo.png"
+    },
+    {
+        "Address": "1800 West Lawrence Ave.",
+        "Zip": "60640",
+        "Location": "POINT (-87.675062 41.968858)",
+        "store_id": 128,
+        "store_name": "Mariano's Fresh Market",
+        "image_path": "marianosLogo.png"
+    },
+    {
+        "Address": "2323 W 111th St.",
+        "Zip": "60643",
+        "Location": "POINT (-87.680391 41.691788)",
+        "store_id": 129,
+        "store_name": "Fairplay Neighborhood Market",
+        "image_path": "groceryStore.png"
+    },
+    {
+        "Address": "3448 E 118th St.",
+        "Zip": "60617",
+        "Location": "POINT (-87.540984 41.68094700000001)",
+        "store_id": 130,
+        "store_name": "Pete's Fresh Market",
+        "image_path": "petesLogo.jpeg"
+    },
+    {
+        "Address": "5630 W. Belmont Ave",
+        "Zip": "60634",
+        "Location": "POINT (-87.76795 41.938567)",
+        "store_id": 131,
+        "store_name": "Tony's Finer Foods",
+        "image_path": "groceryStore.png"
+    },
+    {
+        "Address": "9001 S ASHLAND AVE",
+        "Zip": "60620",
+        "Location": "POINT (-87.662846 41.730156)",
+        "store_id": 132,
+        "store_name": "Stumpy's Grocery & Deli",
+        "image_path": "groceryStore.png"
+    },
+    {
+        "Address": "1440 W Devon Ave",
+        "Zip": "60660",
+        "Location": "POINT (-87.667512 41.998125)",
+        "store_id": 133,
+        "store_name": "Devon Market",
+        "image_path": "groceryStore.png"
+    },
+    {
+        "Address": "255 E Grand Ave",
+        "Zip": "60611-3315",
+        "Location": "POINT (-87.621346 41.891801)",
+        "store_id": 134,
+        "store_name": "Whole Foods Market",
+        "image_path": "wholeFoodsLogo.png"
+    },
+    {
+        "Address": "1154 S Clark St",
+        "Zip": "60605-2159",
+        "Location": "POINT (-87.630528 41.867843)",
+        "store_id": 135,
+        "store_name": "Target",
+        "image_path": "targetLogo.png"
+    },
+    {
+        "Address": "2112 N Ashland",
+        "Zip": "60614",
+        "Location": "POINT (-87.668539 41.920702)",
+        "store_id": 136,
+        "store_name": "Mariano's Fresh Market",
+        "image_path": "marianosLogo.png"
+    },
+    {
+        "Address": "4137 N. Elston Ave",
+        "Zip": "60618",
+        "Location": "POINT (-87.72213 41.955747)",
+        "store_id": 137,
+        "store_name": "Tony's Finer Foods",
+        "image_path": "groceryStore.png"
+    },
+    {
+        "Address": "1858 S ALLPORT ST",
+        "Zip": "60608",
+        "Location": "POINT (-87.657622 41.856653)",
+        "store_id": 138,
+        "store_name": "Los Cuatro Hermanos Grocery",
+        "image_path": "groceryStore.png"
+    },
+    {
+        "Address": "7100 S Cicero Ave",
+        "Zip": "60629-5891",
+        "Location": "POINT (-87.742015 41.764792)",
+        "store_id": 139,
+        "store_name": "Target",
+        "image_path": "targetLogo.png"
+    },
+    {
+        "Address": "4879 N BROADWAY",
+        "Zip": "60640",
+        "Location": "POINT (-87.659728 41.971045)",
+        "store_id": 140,
+        "store_name": "Park to Shop Supermarket Broadway",
+        "image_path": "groceryStore.png"
+    },
+    {
+        "Address": "2746 N MILWAUKEE AVE",
+        "Zip": "60647",
+        "Location": "POINT (-87.710541 41.930966)",
+        "store_id": 141,
+        "store_name": "Dill Pickle Food Co-op",
+        "image_path": "groceryStore.png"
+    },
+    {
+        "Address": "4433 S Pulaski Rd",
+        "Zip": "60632-4010",
+        "Location": "POINT (-87.723656 41.812519)",
+        "store_id": 142,
+        "store_name": "Target",
+        "image_path": "targetLogo.png"
+    },
+    {
+        "Address": "5057 W DIVISION ST",
+        "Zip": "60651",
+        "Location": "POINT (-87.752533 41.902306)",
+        "store_id": 143,
+        "store_name": "Moses Butcher Shop",
+        "image_path": "groceryStore.png"
+    },
+    {
+        "Address": "4660 W Irving Park Rd",
+        "Zip": "60641-2888",
+        "Location": "POINT (-87.744868 41.953468)",
+        "store_id": 144,
+        "store_name": "Jewel - Osco",
+        "image_path": "jewelOscoLogo.png"
+    },
+    {
+        "Address": "3350 North Western Avenue",
+        "Zip": "60618",
+        "Location": "POINT (-87.688178 41.942805)",
+        "store_id": 145,
+        "store_name": "Mariano's Fresh Market",
+        "image_path": "marianosLogo.png"
+    },
+    {
+        "Address": "6415 N Central Ave",
+        "Zip": "60646",
+        "Location": "POINT (-87.763514 41.998118)",
+        "store_id": 146,
+        "store_name": "Happy Foods - Edgebrook",
+        "image_path": "groceryStore.png"
+    },
+    {
+        "Address": "2656 N Elston Ave",
+        "Zip": "60647-2019",
+        "Location": "POINT (-87.683798 41.929451)",
+        "store_id": 147,
+        "store_name": "Target",
+        "image_path": "targetLogo.png"
+    },
+    {
+        "Address": "667 W DIVERSEY PKWY",
+        "Zip": "60614",
+        "Location": "POINT (-87.645939 41.932807)",
+        "store_id": 148,
+        "store_name": "Trader Joe's",
+        "image_path": "TraderJoesLogo.jpeg"
+    },
+    {
+        "Address": "2600 W LITHUANIAN PLAZA CT",
+        "Zip": "60629",
+        "Location": "POINT (-87.688311 41.768259)",
+        "store_id": 149,
+        "store_name": "Ogies Food",
+        "image_path": "groceryStore.png"
+    },
+    {
+        "Address": "10900 S Doty Ave",
+        "Zip": "60628-3804",
+        "Location": "POINT (-87.596618 41.696117)",
+        "store_id": 150,
+        "store_name": "Walmart",
+        "image_path": "walmartLogo.jpeg"
+    },
+    {
+        "Address": "7535 S Ashland Ave",
+        "Zip": "60620-4246",
+        "Location": "POINT (-87.663538 41.756362)",
+        "store_id": 151,
+        "store_name": "Walmart",
+        "image_path": "walmartLogo.jpeg"
+    },
+    {
+        "Address": "1711 W Cermak",
+        "Zip": "60608",
+        "Location": "POINT (-87.669358 41.852296)",
+        "store_id": 152,
+        "store_name": "Cermak Produce",
+        "image_path": "groceryStore.png"
+    },
+    {
+        "Address": "3033 S Halsted St.",
+        "Zip": "60608",
+        "Location": "POINT (-87.646295 41.838836)",
+        "store_id": 153,
+        "store_name": "Cermak Produce",
+        "image_path": "groceryStore.png"
+    },
+    {
+        "Address": "5838 S Pulaski Rd.",
+        "Zip": "60629",
+        "Location": "POINT (-87.723053 41.786519)",
+        "store_id": 154,
+        "store_name": "Pete's Fresh Market",
+        "image_path": "petesLogo.jpeg"
+    },
+    {
+        "Address": "3201 N Ashland Ave",
+        "Zip": "60657-2156",
+        "Location": "POINT (-87.668592 41.93976)",
+        "store_id": 155,
+        "store_name": "Whole Foods Market",
+        "image_path": "wholeFoodsLogo.png"
+    },
+    {
+        "Address": "401 E Illinois St",
+        "Zip": "60611-4305",
+        "Location": "POINT (-87.617634 41.891053)",
+        "store_id": 156,
+        "store_name": "Target",
+        "image_path": "targetLogo.png"
+    },
+    {
+        "Address": "6107 S Archer Ave",
+        "Zip": "60638-2743",
+        "Location": "POINT (-87.770696 41.794391)",
+        "store_id": 157,
+        "store_name": "Jewel - Osco",
+        "image_path": "jewelOscoLogo.png"
+    },
+    {
+        "Address": "2901 W Armitage Ave",
+        "Zip": "60647",
+        "Location": "POINT (-87.699617 41.917474)",
+        "store_id": 158,
+        "store_name": "Foodsmart",
+        "image_path": "groceryStore.png"
+    },
+    {
+        "Address": "2434 N SACRAMENTO AVE",
+        "Zip": "60647",
+        "Location": "POINT (-87.702326 41.925616)",
+        "store_id": 159,
+        "store_name": "Target",
+        "image_path": "targetLogo.png"
+    },
+    {
+        "Address": "7240 S Stony Island",
+        "Zip": "60649",
+        "Location": "POINT (-87.586265 41.762774)",
+        "store_id": 160,
+        "store_name": "Save A Lot",
+        "image_path": "groceryStore.png"
+    },
+    {
+        "Address": "821 W 115th St",
+        "Zip": "60643-4618",
+        "Location": "POINT (-87.64258800000002 41.685074)",
+        "store_id": 161,
+        "store_name": "Aldi",
+        "image_path": "AldiLogo.png"
+    },
+    {
+        "Address": "44 E ONTARIO ST",
+        "Zip": "60611",
+        "Location": "POINT (-87.626344 41.89332300000001)",
+        "store_id": 162,
+        "store_name": "Trader Joe's",
+        "image_path": "TraderJoesLogo.jpeg"
+    },
+    {
+        "Address": "5467 W Madison St",
+        "Zip": "60644",
+        "Location": "POINT (-87.76380600000002 41.880217)",
+        "store_id": 163,
+        "store_name": "Leamington Foods",
+        "image_path": "groceryStore.png"
+    },
+    {
+        "Address": "3311 W 26th St.",
+        "Zip": "60623",
+        "Location": "POINT (-87.70826800000002 41.844499000000006)",
+        "store_id": 164,
+        "store_name": "Cermak Produce",
+        "image_path": "groceryStore.png"
+    },
+    {
+        "Address": "3640 N Halsted St",
+        "Zip": "60613-4316",
+        "Location": "POINT (-87.649502 41.948387)",
+        "store_id": 165,
+        "store_name": "Whole Foods Market",
+        "image_path": "wholeFoodsLogo.png"
+    },
+    {
+        "Address": "6430 W Irving Park Rd",
+        "Zip": "60634-2459",
+        "Location": "POINT (-87.787727 41.952915)",
+        "store_id": 166,
+        "store_name": "Jewel - Osco",
+        "image_path": "jewelOscoLogo.png"
+    },
+    {
+        "Address": "3850 W Fullerton Ave",
+        "Zip": "60647",
+        "Location": "POINT (-87.723901 41.924575)",
+        "store_id": 167,
+        "store_name": "Carniceria Jimenez",
+        "image_path": "groceryStore.png"
+    },
+    {
+        "Address": "6525 W Diversey Ave",
+        "Zip": "60707-2312",
+        "Location": "POINT (-87.787135 41.930987)",
+        "store_id": 168,
+        "store_name": "Target",
+        "image_path": "targetLogo.png"
+    },
+    {
+        "Address": "10532 S Indianapolis Ave",
+        "Zip": "60617-6355",
+        "Location": "POINT (-87.525607 41.703728)",
+        "store_id": 169,
+        "store_name": "Aldi",
+        "image_path": "AldiLogo.png"
+    },
+    {
+        "Address": "7300 S Cicero Ave",
+        "Zip": "60629-5817",
+        "Location": "POINT (-87.741835 41.760134)",
+        "store_id": 170,
+        "store_name": "Costco",
+        "image_path": "costcoLogo.jpeg"
+    },
+    {
+        "Address": "2650 N CLARK ST",
+        "Zip": "60614",
+        "Location": "POINT (-87.64393700000001 41.930805)",
+        "store_id": 171,
+        "store_name": "Target",
+        "image_path": "targetLogo.png"
+    },
+    {
+        "Address": "4626 W Diversey Ave",
+        "Zip": "60639-1829",
+        "Location": "POINT (-87.74243 41.931608)",
+        "store_id": 172,
+        "store_name": "Walmart",
+        "image_path": "walmartLogo.jpeg"
+    },
+    {
+        "Address": "1615 S Clark Street",
+        "Zip": "60616",
+        "Location": "POINT (-87.630264 41.859325)",
+        "store_id": 173,
+        "store_name": "Mariano's Fresh Market",
+        "image_path": "marianosLogo.png"
+    },
+    {
+        "Address": "4500 N Broadway St",
+        "Zip": "60640-5602",
+        "Location": "POINT (-87.65629 41.963599)",
+        "store_id": 174,
+        "store_name": "Aldi",
+        "image_path": "AldiLogo.png"
+    },
+    {
+        "Address": "8500 S Holland Rd",
+        "Zip": "60620-1338",
+        "Location": "POINT (-87.631939 41.73934)",
+        "store_id": 175,
+        "store_name": "Aldi",
+        "image_path": "AldiLogo.png"
+    },
+    {
+        "Address": "6009 N Broadway St",
+        "Zip": "60660-2500",
+        "Location": "POINT (-87.660244 41.991499000000005)",
+        "store_id": 176,
+        "store_name": "Whole Foods Market",
+        "image_path": "wholeFoodsLogo.png"
+    },
+    {
+        "Address": "3334 W. Armitage Ave.",
+        "Zip": "60647",
+        "Location": "POINT (-87.710835 41.917361)",
+        "store_id": 177,
+        "store_name": "Armitage Produce",
+        "image_path": "groceryStore.png"
+    },
+    {
+        "Address": "3552 W ARMITAGE AVE",
+        "Zip": "60647",
+        "Location": "POINT (-87.715646 41.917317)",
+        "store_id": 178,
+        "store_name": "Que Rico Supermercado",
+        "image_path": "groceryStore.png"
+    },
+    {
+        "Address": "5320 S Pulaski Rd",
+        "Zip": "60632-4224",
+        "Location": "POINT (-87.723312 41.795953)",
+        "store_id": 179,
+        "store_name": "Jewel - Osco",
+        "image_path": "jewelOscoLogo.png"
+    },
+    {
+        "Address": "4183 N CLARENDON AVE",
+        "Zip": "60613",
+        "Location": "POINT (-87.649781 41.958174)",
+        "store_id": 180,
+        "store_name": "Clarendon Food Mart",
+        "image_path": "groceryStore.png"
+    },
+    {
+        "Address": "1840 N CLYBOURN AVE",
+        "Zip": "60614",
+        "Location": "POINT (-87.654343 41.914418)",
+        "store_id": 181,
+        "store_name": "Trader Joe's",
+        "image_path": "TraderJoesLogo.jpeg"
+    },
+    {
+        "Address": "2411 S WALLACE ST",
+        "Zip": "60616",
+        "Location": "POINT (-87.642075 41.848785)",
+        "store_id": 182,
+        "store_name": "J Freshmart",
+        "image_path": "groceryStore.png"
+    },
+    {
+        "Address": "1233 N WELLS ST",
+        "Zip": "60610",
+        "Location": "POINT (-87.634502 41.904751)",
+        "store_id": 183,
+        "store_name": "Plum Market",
+        "image_path": "groceryStore.png"
+    },
+    {
+        "Address": "4250 N Lincoln Ave",
+        "Zip": "60618-2902",
+        "Location": "POINT (-87.682232 41.959156)",
+        "store_id": 184,
+        "store_name": "Jewel - Osco",
+        "image_path": "jewelOscoLogo.png"
+    },
+    {
+        "Address": "3019 E 91ST ST",
+        "Zip": "60617",
+        "Location": "POINT (-87.550363 41.73008)",
+        "store_id": 185,
+        "store_name": "First Choice Market",
+        "image_path": "groceryStore.png"
+    },
+    {
+        "Address": "9704 S COMMERCIAL AVE",
+        "Zip": "60617",
+        "Location": "POINT (-87.55104 41.718849)",
+        "store_id": 186,
+        "store_name": "La Feria Grocery",
+        "image_path": "groceryStore.png"
+    },
+    {
+        "Address": "1940 W 33rd St",
+        "Zip": "60608-6107",
+        "Location": "POINT (-87.674594 41.834066)",
+        "store_id": 187,
+        "store_name": "Target",
+        "image_path": "targetLogo.png"
+    },
+    {
+        "Address": "2500 N Central Avenue",
+        "Zip": "60639",
+        "Location": "POINT (-87.76607 41.926441)",
+        "store_id": 188,
+        "store_name": "Tony's Finer Foods",
+        "image_path": "groceryStore.png"
+    },
+    {
+        "Address": "550 N State St",
+        "Zip": "60654-4815",
+        "Location": "POINT (-87.628072 41.89219)",
+        "store_id": 189,
+        "store_name": "Jewel - Osco",
+        "image_path": "jewelOscoLogo.png"
+    },
+    {
+        "Address": "4734 N Cumberland Ave Apt N",
+        "Zip": "60656-4239",
+        "Location": "POINT (-87.836778 41.965579)",
+        "store_id": 190,
+        "store_name": "Jewel - Osco",
+        "image_path": "jewelOscoLogo.png"
+    },
+    {
+        "Address": "4925 N BROADWAY",
+        "Zip": "60640",
+        "Location": "POINT (-87.659695 41.972167)",
+        "store_id": 191,
+        "store_name": "Tai Nam Food Market",
+        "image_path": "groceryStore.png"
+    },
+    {
+        "Address": "1224 S Wabash Ave",
+        "Zip": "60605-2401",
+        "Location": "POINT (-87.6258 41.866345)",
+        "store_id": 192,
+        "store_name": "Jewel - Osco",
+        "image_path": "jewelOscoLogo.png"
+    },
+    {
+        "Address": "3607 W Fullerton",
+        "Zip": "60647",
+        "Location": "POINT (-87.717603 41.924571)",
+        "store_id": 193,
+        "store_name": "Tony's Finer Foods",
+        "image_path": "groceryStore.png"
+    },
+    {
+        "Address": "1528 E 55TH ST",
+        "Zip": "60615",
+        "Location": "POINT (-87.588351 41.795263)",
+        "store_id": 194,
+        "store_name": "Trader Joe's",
+        "image_path": "TraderJoesLogo.jpeg"
+    },
+    {
+        "Address": "4355 N Sheridan Rd",
+        "Zip": "60613-1497",
+        "Location": "POINT (-87.654722 41.961462)",
+        "store_id": 195,
+        "store_name": "Jewel - Osco",
+        "image_path": "jewelOscoLogo.png"
+    },
+    {
+        "Address": "1147 S WABASH AVE",
+        "Zip": "60605",
+        "Location": "POINT (-87.625838 41.86804)",
+        "store_id": 196,
+        "store_name": "Trader Joe's",
+        "image_path": "TraderJoesLogo.jpeg"
+    },
+    {
+        "Address": "2550 N Clybourn Ave",
+        "Zip": "60614",
+        "Location": "POINT (-87.67355 41.928315)",
+        "store_id": 197,
+        "store_name": "Jewel - Osco",
+        "image_path": "jewelOscoLogo.png"
+    },
+    {
+        "Address": "4729 N Central Ave",
+        "Zip": "60630-3269",
+        "Location": "POINT (-87.767429 41.966981)",
+        "store_id": 198,
+        "store_name": "Jewel - Osco",
+        "image_path": "jewelOscoLogo.png"
+    },
+    {
+        "Address": "4042 W Foster Ave",
+        "Zip": "60630-2747",
+        "Location": "POINT (-87.729907 41.975461)",
+        "store_id": 199,
+        "store_name": "Jewel - Osco",
+        "image_path": "jewelOscoLogo.png"
+    },
+    {
+        "Address": "1763 W Howard St",
+        "Zip": "60626-1626",
+        "Location": "POINT (-87.674817 42.019397)",
+        "store_id": 200,
+        "store_name": "Jewel - Osco",
+        "image_path": "jewelOscoLogo.png"
+    },
+    {
+        "Address": "800 N Kedzie Avenue",
+        "Zip": "60651",
+        "Location": "POINT (-87.70659 41.895992)",
+        "store_id": 201,
+        "store_name": "Market Fresh Finer Foods",
+        "image_path": "groceryStore.png"
+    },
+    {
+        "Address": "6783 Northwest Highway",
+        "Zip": "60631",
+        "Location": "POINT (-87.818421 42.004199)",
+        "store_id": 202,
+        "store_name": "Happy Foods - Edison Park",
+        "image_path": "groceryStore.png"
+    },
+    {
+        "Address": "3128 W 103rd St",
+        "Zip": "60655-2010",
+        "Location": "POINT (-87.699375 41.706252)",
+        "store_id": 203,
+        "store_name": "Jewel - Osco",
+        "image_path": "jewelOscoLogo.png"
+    },
+    {
+        "Address": "2828 N Central Ave",
+        "Zip": "60634-5306",
+        "Location": "POINT (-87.766235 41.931987)",
+        "store_id": 204,
+        "store_name": "Aldi",
+        "image_path": "AldiLogo.png"
+    },
+    {
+        "Address": "5629 W Fillmore St",
+        "Zip": "60644-5504",
+        "Location": "POINT (-87.766267 41.867428)",
+        "store_id": 205,
+        "store_name": "Aldi",
+        "image_path": "AldiLogo.png"
+    },
+    {
+        "Address": "6319 S VERNON AVE",
+        "Zip": "60637",
+        "Location": "POINT (-87.614421 41.779709)",
+        "store_id": 206,
+        "store_name": "Woodlawn Super Fair LLC",
+        "image_path": "groceryStore.png"
+    },
+    {
+        "Address": "3204 N CLARK ST",
+        "Zip": "60657",
+        "Location": "POINT (-87.650766 41.940086)",
+        "store_id": 207,
+        "store_name": "Target",
+        "image_path": "targetLogo.png"
+    },
+    {
+        "Address": "1739 W Cermak Rd",
+        "Zip": "60608-4315",
+        "Location": "POINT (-87.670188 41.852282)",
+        "store_id": 208,
+        "store_name": "Aldi",
+        "image_path": "AldiLogo.png"
+    },
+    {
+        "Address": "1440 N Kostner Ave",
+        "Zip": "60651-1602",
+        "Location": "POINT (-87.736287 41.907435)",
+        "store_id": 209,
+        "store_name": "Aldi",
+        "image_path": "AldiLogo.png"
+    },
+    {
+        "Address": "875 N State Street",
+        "Zip": "60610",
+        "Location": "POINT (-87.628297 41.898681)",
+        "store_id": 210,
+        "store_name": "Potash Markets",
+        "image_path": "groceryStore.png"
+    },
+    {
+        "Address": "443 E 34th St",
+        "Zip": "60616-4135",
+        "Location": "POINT (-87.614555 41.83312)",
+        "store_id": 211,
+        "store_name": "Jewel - Osco",
+        "image_path": "jewelOscoLogo.png"
+    },
+    {
+        "Address": "5033 N ELSTON AVE",
+        "Zip": "60630",
+        "Location": "POINT (-87.746374 41.971936)",
+        "store_id": 212,
+        "store_name": "Seafood City Supermarket",
+        "image_path": "groceryStore.png"
+    },
+    {
+        "Address": "2112 W Peterson Ave",
+        "Zip": "60659-4277",
+        "Location": "POINT (-87.683199 41.990654)",
+        "store_id": 213,
+        "store_name": "Target",
+        "image_path": "targetLogo.png"
+    },
+    {
+        "Address": "3400 N Western Ave",
+        "Zip": "60618-6012",
+        "Location": "POINT (-87.688073 41.943389)",
+        "store_id": 214,
+        "store_name": "Jewel - Osco",
+        "image_path": "jewelOscoLogo.png"
+    },
+    {
+        "Address": "4650 W North Ave",
+        "Zip": "60639-4611",
+        "Location": "POINT (-87.743003 41.909734)",
+        "store_id": 215,
+        "store_name": "Walmart",
+        "image_path": "walmartLogo.jpeg"
+    },
+    {
+        "Address": "4000 West Diversey Ave",
+        "Zip": "60647",
+        "Location": "",
+        "store_id": 216,
+        "store_name": "Cermak Produce",
+        "image_path": "groceryStore.png"
+    },
+    {
+        "Address": "1411 West 87th Street",
+        "Zip": "60620",
+        "Location": "POINT (-87.658721 41.73579600000001)",
+        "store_id": 217,
+        "store_name": "Pete's Produce",
+        "image_path": "groceryStore.png"
+    },
+    {
+        "Address": "1101 S Canal St Ste 107",
+        "Zip": "60607-4932",
+        "Location": "POINT (-87.639224 41.868909)",
+        "store_id": 218,
+        "store_name": "Whole Foods Market",
+        "image_path": "wholeFoodsLogo.png"
+    },
+    {
+        "Address": "2600 N Clybourn Ave",
+        "Zip": "60614-1004",
+        "Location": "POINT (-87.674207 41.928914)",
+        "store_id": 219,
+        "store_name": "Aldi",
+        "image_path": "AldiLogo.png"
+    },
+    {
+        "Address": "3459 W 59th St",
+        "Zip": "60629",
+        "Location": "POINT (-87.710412 41.78613800000001)",
+        "store_id": 220,
+        "store_name": "Carniceria La Hacienda",
+        "image_path": "groceryStore.png"
+    },
+    {
+        "Address": "222 N Columbus",
+        "Zip": "60601",
+        "Location": "POINT (-87.620734 41.886498)",
+        "store_id": 221,
+        "store_name": "Bockwinkel's at Park Millenium",
+        "image_path": "groceryStore.png"
+    },
+    {
+        "Address": "7050 S Cicero Ave",
+        "Zip": "60638-6402",
+        "Location": "POINT (-87.742029 41.765309)",
+        "store_id": 222,
+        "store_name": "Walmart",
+        "image_path": "walmartLogo.jpeg"
+    },
+    {
+        "Address": "7545 S Western Ave",
+        "Zip": "60620-5817",
+        "Location": "POINT (-87.682933 41.756043)",
+        "store_id": 223,
+        "store_name": "Aldi",
+        "image_path": "AldiLogo.png"
+    },
+    {
+        "Address": "5829 S Archer Ave",
+        "Zip": "60638",
+        "Location": "POINT (-87.759575 41.796111)",
+        "store_id": 224,
+        "store_name": "Shop & Save Market",
+        "image_path": "groceryStore.png"
+    },
+    {
+        "Address": "2701 W NORTH AVE",
+        "Zip": "60647",
+        "Location": "POINT (-87.69471 41.910211)",
+        "store_id": 225,
+        "store_name": "Cermak Produce",
+        "image_path": "groceryStore.png"
+    },
+    {
+        "Address": "620 W 63rd St",
+        "Zip": "60621-2012",
+        "Location": "POINT (-87.640454 41.779823)",
+        "store_id": 226,
+        "store_name": "Aldi",
+        "image_path": "AldiLogo.png"
+    },
+    {
+        "Address": "4301 S Lake Park Ave",
+        "Zip": "60653",
+        "Location": "POINT (-87.598545 41.816482)",
+        "store_id": 227,
+        "store_name": "One Stop Foods",
+        "image_path": "groceryStore.png"
+    },
+    {
+        "Address": "1655 E 95th St",
+        "Zip": "60617-4707",
+        "Location": "POINT (-87.584006 41.722319)",
+        "store_id": 228,
+        "store_name": "Jewel - Osco",
+        "image_path": "jewelOscoLogo.png"
+    },
+    {
+        "Address": "4640 S Halsted St.",
+        "Zip": "60609",
+        "Location": "POINT (-87.64562400000001 41.810628)",
+        "store_id": 229,
+        "store_name": "Fairplay Neighborhood Market",
+        "image_path": "groceryStore.png"
+    },
+    {
+        "Address": "959 W Fullerton Ave",
+        "Zip": "60614-2406",
+        "Location": "POINT (-87.6533 41.925405)",
+        "store_id": 230,
+        "store_name": "Whole Foods Market",
+        "image_path": "wholeFoodsLogo.png"
+    },
+    {
+        "Address": "420 S Pulaksi Rd",
+        "Zip": "60624",
+        "Location": "POINT (-87.725425 41.874532)",
+        "store_id": 231,
+        "store_name": "Save A Lot",
+        "image_path": "groceryStore.png"
+    },
+    {
+        "Address": "1525 N Clark Street",
+        "Zip": "60610",
+        "Location": "POINT (-87.63163300000001 41.910246)",
+        "store_id": 232,
+        "store_name": "Potash Markets",
+        "image_path": "groceryStore.png"
+    },
+    {
+        "Address": "2021 W Chicago Avenue",
+        "Zip": "60622",
+        "Location": "POINT (-87.677972 41.895918)",
+        "store_id": 233,
+        "store_name": "Mariano's Fresh Market",
+        "image_path": "marianosLogo.png"
+    },
+    {
+        "Address": "5153 S Kedzie Ave",
+        "Zip": "60632",
+        "Location": "POINT (-87.703718 41.799112)",
+        "store_id": 234,
+        "store_name": "Carniceria La Hacienda",
+        "image_path": "groceryStore.png"
+    },
+    {
+        "Address": "4934 S Kedzie Ave",
+        "Zip": "60632-3042",
+        "Location": "POINT (-87.703824 41.802995)",
+        "store_id": 235,
+        "store_name": "Aldi",
+        "image_path": "AldiLogo.png"
+    },
+    {
+        "Address": "13085 S Ashland Ave",
+        "Zip": "60827-6333",
+        "Location": "POINT (-87.660633 41.656854)",
+        "store_id": 236,
+        "store_name": "Aldi",
+        "image_path": "AldiLogo.png"
+    },
+    {
+        "Address": "6014 S Cottage Grove",
+        "Zip": "60637",
+        "Location": "POINT (-87.606036 41.784548)",
+        "store_id": 237,
+        "store_name": "Jewel - Osco",
+        "image_path": "jewelOscoLogo.png"
+    },
+    {
+        "Address": "3307 W 63RD ST",
+        "Zip": "60629",
+        "Location": "POINT (-87.707291 41.778911)",
+        "store_id": 238,
+        "store_name": "Rio Valley Market",
+        "image_path": "groceryStore.png"
+    },
+    {
+        "Address": "7158 S ASHLAND AVE",
+        "Zip": "60636",
+        "Location": "POINT (-87.663836 41.763146)",
+        "store_id": 239,
+        "store_name": "Johnny's Foods",
+        "image_path": "groceryStore.png"
+    },
+    {
+        "Address": "7342 W Foster Ave Ste 1",
+        "Zip": "60656-3617",
+        "Location": "POINT (-87.811426 41.974395)",
+        "store_id": 240,
+        "store_name": "Jewel - Osco",
+        "image_path": "jewelOscoLogo.png"
+    },
+    {
+        "Address": "10700 S Halsed St",
+        "Zip": "60628",
+        "Location": "POINT (-87.642681 41.699358)",
+        "store_id": 241,
+        "store_name": "Save A Lot",
+        "image_path": "groceryStore.png"
+    },
+    {
+        "Address": "3570 N Elston Ave",
+        "Zip": "60618-4318",
+        "Location": "POINT (-87.708163 41.946197)",
+        "store_id": 242,
+        "store_name": "Jewel - Osco",
+        "image_path": "jewelOscoLogo.png"
+    },
+    {
+        "Address": "3850 W North Ave",
+        "Zip": "60647",
+        "Location": "POINT (-87.723227 41.909993)",
+        "store_id": 243,
+        "store_name": "Carniceria Jimenez",
+        "image_path": "groceryStore.png"
+    },
+    {
+        "Address": "2637 S Pulaski Road",
+        "Zip": "60623",
+        "Location": "POINT (-87.724506 41.843096)",
+        "store_id": 244,
+        "store_name": "Food Market La Chicquita",
+        "image_path": "groceryStore.png"
+    },
+    {
+        "Address": "5330 W Belmont Ave",
+        "Zip": "60641",
+        "Location": "POINT (-87.760298 41.938673)",
+        "store_id": 245,
+        "store_name": "Carniceria Jimenez",
+        "image_path": "groceryStore.png"
+    },
+    {
+        "Address": "30 W Huron St",
+        "Zip": "60654-6402",
+        "Location": "POINT (-87.629609 41.894857)",
+        "store_id": 246,
+        "store_name": "Whole Foods Market",
+        "image_path": "wholeFoodsLogo.png"
+    },
+    {
+        "Address": "3644 S Archer Ave",
+        "Zip": "60609-1044",
+        "Location": "POINT (-87.68249100000001 41.827526)",
+        "store_id": 247,
+        "store_name": "Jewel - Osco",
+        "image_path": "jewelOscoLogo.png"
+    },
+    {
+        "Address": "1836 N Clybourn Ave",
+        "Zip": "60614-4902",
+        "Location": "POINT (-87.654184 41.914306)",
+        "store_id": 248,
+        "store_name": "Aldi",
+        "image_path": "AldiLogo.png"
+    },
+    {
+        "Address": "1220 S Ashland Ave",
+        "Zip": "60608",
+        "Location": "POINT (-87.666452 41.866306)",
+        "store_id": 249,
+        "store_name": "Jewel - Osco",
+        "image_path": "jewelOscoLogo.png"
+    },
+    {
+        "Address": "4501 S Pulaski Rd",
+        "Zip": "60632-4035",
+        "Location": "POINT (-87.723596 41.810456)",
+        "store_id": 250,
+        "store_name": "Aldi",
+        "image_path": "AldiLogo.png"
+    },
+    {
+        "Address": "5501 S HARLEM AVE",
+        "Zip": "60638",
+        "Location": "POINT (-87.801377 41.791634)",
+        "store_id": 251,
+        "store_name": "Aldi",
+        "image_path": "AldiLogo.png"
+    },
+    {
+        "Address": "2500 N ELSTON AVE",
+        "Zip": "60647",
+        "Location": "POINT (-87.680485 41.927161000000005)",
+        "store_id": 252,
+        "store_name": "Fresh Thyme Farmers Market",
+        "image_path": "groceryStore.png"
+    },
+    {
+        "Address": "2345 N Clark St",
+        "Zip": "60614-3422",
+        "Location": "POINT (-87.639871 41.924644)",
+        "store_id": 253,
+        "store_name": "Big Apple Finer Foods",
+        "image_path": "groceryStore.png"
+    },
+    {
+        "Address": "4804 W DIVERSEY AVE",
+        "Zip": "60639",
+        "Location": "POINT (-87.746768 41.931564)",
+        "store_id": 254,
+        "store_name": "Centro Fresh Market",
+        "image_path": "groceryStore.png"
+    },
+    {
+        "Address": "2858 E 83rd St",
+        "Zip": "60617",
+        "Location": "POINT (-87.554402 41.74461)",
+        "store_id": 255,
+        "store_name": "Save A Lot",
+        "image_path": "groceryStore.png"
+    },
+    {
+        "Address": "333 E Benton Pl",
+        "Zip": "60601-7412",
+        "Location": "POINT (-87.61846 41.885515)",
+        "store_id": 256,
+        "store_name": "Mariano's Lakeshore East",
+        "image_path": "groceryStore.png"
+    },
+    {
+        "Address": "8333 S Cicero Ave",
+        "Zip": "60652-3596",
+        "Location": "POINT (-87.740988 41.740856)",
+        "store_id": 257,
+        "store_name": "Aldi",
+        "image_path": "AldiLogo.png"
+    },
+    {
+        "Address": "6601 W IRVING PARK RD",
+        "Zip": "60634",
+        "Location": "POINT (-87.790868 41.952851)",
+        "store_id": 258,
+        "store_name": "Montrose Food Mart & Deli",
+        "image_path": "groceryStore.png"
+    },
+    {
+        "Address": "3531 N Broadway St",
+        "Zip": "60657-1825",
+        "Location": "POINT (-87.646797 41.946598)",
+        "store_id": 259,
+        "store_name": "Jewel - Osco",
+        "image_path": "jewelOscoLogo.png"
+    },
+    {
+        "Address": "2707 S WELLS ST",
+        "Zip": "60616",
+        "Location": "POINT (-87.633033 41.843813)",
+        "store_id": 260,
+        "store_name": "Fat Lee Supermarket",
+        "image_path": "groceryStore.png"
+    },
+    {
+        "Address": "6220 N California Ave",
+        "Zip": "60659-2608",
+        "Location": "POINT (-87.699541 41.994349)",
+        "store_id": 261,
+        "store_name": "Aldi",
+        "image_path": "AldiLogo.png"
+    },
+    {
+        "Address": "6422 W 63rd Street",
+        "Zip": "60638",
+        "Location": "POINT (-87.782075 41.777702)",
+        "store_id": 262,
+        "store_name": "Fair Share Finer Foods",
+        "image_path": "groceryStore.png"
+    },
+    {
+        "Address": "6850 W BELMONT AVE",
+        "Zip": "60634",
+        "Location": "POINT (-87.79769200000001 41.938134)",
+        "store_id": 263,
+        "store_name": "Avenue Food Mart",
+        "image_path": "groceryStore.png"
+    },
+    {
+        "Address": "3142 W LAWRENCE  AVE",
+        "Zip": "60625",
+        "Location": "POINT (-87.707908 41.968473)",
+        "store_id": 264,
+        "store_name": "Lindo Michoacan",
+        "image_path": "groceryStore.png"
+    }
+]
